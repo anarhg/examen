@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Raleway:ital,wght@0,300;0,400;0,500;1,400&display=swap');
+
+body{
+	font-size: 'Raleway', sans-serif;
+	font-size: 15px;
+	color: #444444;
+}
+
+header{
+	position: relative;
+	background-color: #111;
+	width: 100%;
+	top:0;
+	
+}
+
+
+	
+.section{
+	padding: 60px 0;
+}
+
+#slides h3 {
+	font-size: 20px;
+	font-style: italic;
+	font-weight: 300;
+	font-family: 'Playfair Display', serif;
+}
+
+
+#slides h1 {
+	font-size: 70px;
+	font-weight: 700;
+	text-transform: uppercase;
+	
+}
